@@ -1,4 +1,4 @@
-# [PINGUINHUBV3 Script License Agreement (Must Read!)](https://github.com/PUSCRIPTS/PINGUINHUBV3?tab=License-1-ov-file)
+# [PINGUINHUBV5 Script License Agreement (Must Read!)](https://github.com/PUSCRIPTS/PinguinHub?tab=License-1-ov-file)
 
 ## Description
 PINGUINHUBV5 is a powerful script designed for Roblox that enhances gameplay through Aimbot, Visuals, and Flying. With this script, you can automate various actions, go AFK, and elevate your gaming experience.
